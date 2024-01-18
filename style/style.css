@@ -49,3 +49,66 @@ h1{
     font-weight: 400;
     margin-bottom: 48px;
 }
+.featured-flowers-image{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    padding: 128px;
+}
+.featured-img1{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 464px;
+    height: 538px;
+    display: block;
+}
+
+.featured-img2{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    width: 464px;
+    height: 538px;
+    display: block;
+    text-align: center;
+}
+.featured-img3 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    width: 464px;
+    height: 538px;
+    display: block;
+}
+.featured-links{
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 700;
+}
+/* service section */
+h4{
+    font-family: Lato;
+    font-size: 24px;
+     font-weight: 600;
+}
+.service-section{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background-color: cadetblue;
+    width: 1440px;
+    height: 320px;
+    margin: auto;
+    align-items: center;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+}
+h3{
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+}
+.sign-container{
+    
+}
