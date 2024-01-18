@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#header-image-container{
+   display: flex;
+   justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    background: rgba(229, 84, 115, 0.10);
+}
+h1{
+    font-size: 80px;
+   font-weight: 800;
+   margin-bottom: 32px;
+}
+.header-image{
+        width: 635px;
+        height: 800px;
+}
+.shop-btn{
+    padding: 20px 43px;
+    border: none;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 700;
+    color: #FFF;
+    border-radius: 8px;
+    background: #E55473;
+    margin-top: 32px;
+}
+.header-details{
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+
+}
+/* main section */
+.featured-flowers{
+    text-align: center;
+    margin-top: 178px;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+}
+.featured-flowers-description{
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 48px;
+}
