@@ -120,3 +120,41 @@ h3{
     width: 100%;
     height: 620px;
 }
+/* INSTAGRAM SECTION */
+.instagram-text{
+    text-align: center;
+    margin-top: 128px;
+}
+h5{
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+}
+/* instagram image section */
+.instagram-image-container{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    margin-top: 48px;
+    padding: 128px;
+}
+/* SUBSCRIBE IMAGE SECTION */
+.subscribe-background-img{
+     background-image: url('/flower-shop-assignment/Assets/Rectangle\ 9.png');
+     width: 1440px;
+     height: 449px;
+     margin: auto;
+}
+input{
+    width: 700px;
+    height: 64px;
+    border: none;
+    border-radius: 8px;
+    background: #FFF;
+}
+.input-container{
+    position: relative;
+    top:25x; 
+    text-align: center;
+    top: 40%;
+}
